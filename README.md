@@ -14,8 +14,8 @@
 
 ---
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=NotA0ua&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotA0ua&theme=neon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=NotA0ua&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotA0ua&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **NotA0ua/NotA0ua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
