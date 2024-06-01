@@ -13,4 +13,4 @@
 
 ---
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotA0ua&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotA0ua&layout=donut-vertical&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
