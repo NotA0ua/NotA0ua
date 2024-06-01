@@ -1,6 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=50&pause=500&color=00F7C7&center=true&random=false&width=1000&height=100&lines=NotA0ua" alt="Typing SVG" /></a>
 ### Hi there 👋
-
-**I'am NotA0ua**
 [![wakatime](https://wakatime.com/badge/user/2c5ca167-da18-4c91-ba87-80e8d062daa0.svg)](https://wakatime.com/@2c5ca167-da18-4c91-ba87-80e8d062daa0)
 
 ---
