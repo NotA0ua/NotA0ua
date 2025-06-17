@@ -4,8 +4,7 @@
 
 ---
 
-- 👅 Programming language: **Python** and **Rust**
-- 🌱 I’m currently learning **Rust**
+- 👅 Programming language: **Python**
 - ⚡ Fun fact: My favorite color is **aqua**!
 - 😄 Pronouns: **Aqua**, **NotAqua**
 - 🤙 Friends: [sqlmerr](https://github.com/sqlmerr)
