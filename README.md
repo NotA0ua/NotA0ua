@@ -9,3 +9,5 @@
 - 🤙 Friends: [sqlmerr](https://github.com/sqlmerr)
 
 ---
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fudgyreh4wsdsxwntl4fk2gxpm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
